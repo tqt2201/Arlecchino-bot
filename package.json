@@ -1,0 +1,27 @@
+{
+  "name": "arlecchino-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tqt2201/Arlecchino-bot.git"
+  },
+  "keywords": [
+    "arlecchino",
+    "arlechino-bot-discord"
+  ],
+  "author": "tqt_2002",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tqt2201/Arlecchino-bot/issues"
+  },
+  "homepage": "https://github.com/tqt2201/Arlecchino-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.16.2",
+    "dotenv": "^16.4.5"
+  }
+}
